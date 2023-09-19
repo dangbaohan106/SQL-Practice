@@ -20,13 +20,13 @@
   
 ![Untitled4 3](https://github.com/dangbaohan106/SQL-Practice/assets/111477666/87a7dfbc-b1d8-4d21-931d-8a7bf552a1d3)
 ## Q5:
-### What are the top 3 regions with highest number of private sellers contacts by each platform? ​  
+- What are the top 3 regions with highest number of private sellers contacts by each platform? ​  
   
 ![Untitled5](https://github.com/dangbaohan106/SQL-Practice/assets/111477666/4194a6a2-65b9-430a-81ad-a29a22da958c)
-### What are the top 3 regions that prefer buying from the Pro sellers?  
+- What are the top 3 regions that prefer buying from the Pro sellers?  
   
 ![Untitled6](https://github.com/dangbaohan106/SQL-Practice/assets/111477666/4233181c-f2d9-4619-99f4-f817eb7dec57)
-### For each day, what are the region with highest number of seller?​  
+- For each day, what are the region with highest number of seller?​  
   
 ![Untitled7](https://github.com/dangbaohan106/SQL-Practice/assets/111477666/540eeb75-f2fb-4798-a8bb-bd6f96fd16c1)
 ## Q6: Total sellers of Hanoi​ and HCM. If total sellers of Ha Noi >= 45% HCM, then write ‘HN has more than 45% sellers of HCM’, else write ‘HN has less than 45% sellers of HCM’, name the column HN situation.  
